@@ -1,0 +1,4 @@
+1) Lancer ACME CSE
+2) Exécuter le service java
+3) Lancer init_acme.py
+4) Lancer simu_switch.py
